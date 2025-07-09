@@ -12,7 +12,7 @@ export default function Services() {
   }, []);
 
   return (
-    <section className="flex flex-col items-center pt-20 px-4 overflow-hidden">
+    <section className="flex flex-col items-center pt-20 px-4 overflow-hidden" id="serv">
       <h1
         className="text-3xl md:text-4xl font-bold text-center mb-4"
         data-aos="fade-up"

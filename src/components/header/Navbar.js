@@ -31,16 +31,16 @@ export default function Navbar() {
 
         {/* الروابط */}
         <div className="hidden md:flex flex-1 justify-center gap-9 text-xl">
-          <a href="/about" className="text-black hover:text-blue-400">
+          <a href="/" className="text-black hover:text-blue-400">
             الرئيسية
           </a>
-          <a href="/services" className="text-black hover:text-blue-400">
+          <a href="#serv" className="text-black hover:text-blue-400">
             خدماتنا
           </a>
-          <a href="/about" className="text-black hover:text-blue-400">
+          <a href="#about" className="text-black hover:text-blue-400">
             معلومات عنا
           </a>
-          <a href="/contact" className="text-black hover:text-blue-400">
+          <a href="#contact" className="text-black hover:text-blue-400">
             تواصل معنا
           </a>
         </div>

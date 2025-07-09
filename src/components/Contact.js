@@ -2,7 +2,7 @@ import { FaUser, FaEnvelope, FaArrowLeft } from "react-icons/fa";
 
 export default function Contact() {
   return (
-    <section className="flex items-center flex-col justify-center pt-24 px-4 text-center space-y-6">
+    <section className="flex items-center flex-col justify-center pt-24 px-4 text-center space-y-6 " id="contact">
       <h1 className="text-3xl font-semibold">
         تواصل مع{" "}
         <span className="bg-gradient-to-r from-blue-300 to-blue-400 bg-clip-text text-transparent">

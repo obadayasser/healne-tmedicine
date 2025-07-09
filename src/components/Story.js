@@ -3,7 +3,7 @@ import stro from "@/../public/image/sssssss.webp";
 
 export default function Story() {
   return (
-    <section className="flex items-center flex-col py-20 px-4 overflow-hidden" >
+    <section className="flex items-center flex-col py-20 px-4 overflow-hidden" id="about">
       <h1
         className="text-3xl md:text-4xl font-bold text-center mb-10"
         data-aos="fade-up"
