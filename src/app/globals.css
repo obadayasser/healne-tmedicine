@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Tajawal', 'El Messiri', sans-serif;
+  scroll-behavior: smooth;
+}
+html {
+  scroll-behavior: smooth;
+}
