@@ -2,8 +2,8 @@
 
 import { useEffect } from "react";
 import Image from "next/image";
-import saq from "../../public/image/w.webp";
-import ssaq from "../../public/image/r.webp";
+import saq from "@/../public/image/w.webp";
+import ssaq from "@/../public/image/r.webp";
 import { FaPhone } from "react-icons/fa";
 import AOS from "aos";
 import "aos/dist/aos.css";

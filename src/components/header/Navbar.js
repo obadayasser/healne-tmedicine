@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
-import logo from "../../../public/image/logo.webp";
+import logo from "@/../public/image/logo.webp";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../../public/image/Group 23.png";
+import logo from "@/../public/image/Group 23.png";
 import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 import Link from "next/link";
 

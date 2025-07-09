@@ -4,8 +4,8 @@ import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-import bg from "../../../public/image/bg.png";
-import top from "../../../public/image/e.png";
+import bg from "@/../public/image/bg.png";
+import top from "@/../public/image/e.png";
 import {
   FaApple,
   FaAmazon,
@@ -18,10 +18,10 @@ import {
   FaCalendarAlt,
   FaCheck,
 } from "react-icons/fa";
-import sok from "../../../public/image/Ellipse-6.webp";
-import sok2 from "../../../public/image/Ellipse-7.webp";
-import sok3 from "../../../public/image/Ellipse-8.webp";
-import sok4 from "../../../public/image/Ellipse-9.webp";
+import sok from "@/../public/image/Ellipse-6.webp";
+import sok2 from "@/../public/image/Ellipse-7.webp";
+import sok3 from "@/../public/image/Ellipse-8.webp";
+import sok4 from "@/../public/image/Ellipse-9.webp";
 
 export default function Header() {
   useEffect(() => {

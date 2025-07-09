@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import lis from "../../../public/image/group.png";
+import lis from "@/../public/image/group.png";
 import 'aos/dist/aos.css';
 import AOS from 'aos';
 import {

@@ -1,6 +1,6 @@
 import Image from "next/image";
-import sss from "../../public/image/Doctor-PNG-Images 1.png";
-import sa from "../../public/image/Group 27.png";
+import sss from "@/../public/image/Doctor-PNG-Images 1.png";
+import sa from "@/../public/image/Group 27.png";
 
 export default function Platform() {
   return (
