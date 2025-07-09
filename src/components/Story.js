@@ -1,5 +1,5 @@
 import Image from "next/image";
-import stro from ".@/../public/image.webp";
+import stro from "@/../public/image/sssssss.webp";
 
 export default function Story() {
   return (
