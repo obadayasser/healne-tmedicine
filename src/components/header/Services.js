@@ -33,7 +33,7 @@ export default function Services() {
   </p>
 
   <div className="mb-12" data-aos="zoom-in" data-aos-delay="200">
-    <Image src="/image/slkk.png" alt="قائمة الخدمات الصحية" />
+    <Image src="/image/story.png" alt="قائمة الخدمات الصحية" />
   </div>
 
   <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl w-full">
