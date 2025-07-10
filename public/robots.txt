@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://healne-tmedicine.vercel.app
+
+# Sitemaps
+Sitemap: https://healne-tmedicine.vercel.app/sitemap.xml

@@ -27,7 +27,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "HealNet | منصة الرعاية الصحية",
+  title: "هيلنت الرعايه الطبيه الشامله ",
   description:
     "احجز مواعيدك بسهولة، تواصل مع الأطباء، واطّلع على الوصفات والملاحظات الطبية من أي مكان.",
   icons: {
